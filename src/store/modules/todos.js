@@ -35,13 +35,7 @@ const actions = {
 
     commit('addTodo',response.data)
 },
-/*async filterTodos({ commit }, event) {
-  const limit = parseInt(event.target.options[event.target.options.selectedIndex].innerText);
-  
-  const response = await axios.get(`https://jsonplaceholder.typicode.com/todos?_limit=${limit}`);
 
-  commit('setTodos', response.data);
-},*/
 
 }
 

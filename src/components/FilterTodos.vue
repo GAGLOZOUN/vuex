@@ -1,4 +1,4 @@
-<template>
+<!--<template>
     <div>
     <div>
         <h1>FilterTodos</h1>
@@ -10,5 +10,5 @@
 export default {
     name:"FilterTodos"
 }
-</script>
+</script>!>
 
